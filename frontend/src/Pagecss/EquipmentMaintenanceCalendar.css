@@ -1,0 +1,136 @@
+/* EquipmentMaintenanceCalendar.css */
+
+/* General Layout */
+.dashboard-container {
+    padding: 32px;
+    background-color: #f0f2f5;
+    min-height: 100vh;
+}
+
+.dashboard-title {
+    margin-bottom: 8px !important;
+    font-weight: 600;
+}
+
+.dashboard-description {
+    font-size: 16px;
+    color: rgba(0, 0, 0, 0.55);
+    margin-bottom: 32px !important;
+}
+
+.center-content {
+    text-align: center;
+    padding: 100px 0;
+}
+
+.icon-main {
+    color: #1890ff;
+    margin-right: 12px;
+    font-size: 28px;
+}
+
+/* Hospital Overview Cards */
+.hospital-overview-card {
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+    transition: transform 0.3s, box-shadow 0.3s;
+    overflow: hidden;
+    border: 1px solid transparent;
+}
+
+.hospital-overview-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+    border: 1px solid #1890ff;
+}
+
+.card-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 8px;
+}
+
+.location-icon {
+    font-size: 20px;
+    margin-right: 12px;
+    color: #1890ff;
+}
+
+.hospital-name {
+    margin: 0 !important;
+    font-weight: 500;
+}
+
+.hospital-location {
+    font-size: 14px;
+}
+
+.card-content {
+    margin-top: 16px;
+    margin-bottom: 12px;
+}
+
+.metric-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 15px;
+    margin-bottom: 8px;
+}
+
+.metric-label {
+    color: rgba(0, 0, 0, 0.75);
+}
+
+.metric-value {
+    font-weight: bold;
+}
+
+.card-progress {
+    margin-top: 12px;
+}
+
+/* Detail View (Table) */
+.detail-card {
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+    padding: 24px;
+}
+
+.metric-card {
+    background-color: #fff;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+}
+
+.metric-label {
+    color: rgba(0, 0, 0, 0.6);
+    font-size: 14px;
+}
+
+.metric-value {
+    font-weight: bold;
+    font-size: 24px;
+    margin: 0 !important;
+}
+
+.text-gold {
+    color: #FFC53D;
+}
+
+.text-red {
+    color: #F5222D;
+}
+
+.custom-table {
+    margin-top: 24px;
+}
+
+.custom-table .ant-table-thead > tr > th {
+    background-color: #fafafa !important;
+}
+
+.ant-tag {
+    font-weight: 500;
+}

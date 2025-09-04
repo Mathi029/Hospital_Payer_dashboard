@@ -1,0 +1,24 @@
+{
+  "database_export_info": {
+    "export_date": "2025-08-05T14:02:24.756133",
+    "total_hospitals": 20,
+    "total_tables": 18,
+    "description": "Complete Indian hospital database for payer dashboard development"
+  },
+  "available_data_files": {
+    "hospitals.json": "All hospital basic information",
+    "hospital_addresses.json": "Hospital addresses",
+    "hospital_contacts.json": "Hospital contact persons",
+    "medical_specialties.json": "Medical specialties per hospital",
+    "doctors.json": "Doctor profiles with specialties",
+    "hospital_equipment.json": "Medical equipment inventory",
+    "hospital_metrics.json": "Performance metrics and ratios"
+  },
+  "sample_payer_questions": [
+    "Which hospitals have NABH accreditation?",
+    "What is the doctor-to-bed ratio for each hospital?",
+    "Which hospitals offer cardiac surgery?",
+    "What equipment is available for diagnostic imaging?",
+    "Which hospitals have 24x7 emergency services?"
+  ]
+}

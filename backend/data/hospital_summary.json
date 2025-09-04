@@ -1,0 +1,202 @@
+[
+  {
+    "id": 121,
+    "name": "Apollo Hospital Chennai",
+    "hospital_type": "Multi Specialty",
+    "beds_registered": 550,
+    "beds_operational": 520,
+    "city_town": "Chennai",
+    "state": "Tamil Nadu",
+    "pin_code": "600006"
+  },
+  {
+    "id": 122,
+    "name": "Fortis Hospital Mulund",
+    "hospital_type": "Multi Specialty",
+    "beds_registered": 315,
+    "beds_operational": 300,
+    "city_town": "Mumbai",
+    "state": "Maharashtra",
+    "pin_code": "400081"
+  },
+  {
+    "id": 123,
+    "name": "Medanta The Medicity",
+    "hospital_type": "Super Specialty",
+    "beds_registered": 1250,
+    "beds_operational": 1200,
+    "city_town": "Gurugram",
+    "state": "Maharashtra",
+    "pin_code": "122001"
+  },
+  {
+    "id": 124,
+    "name": "King Edward Memorial Hospital",
+    "hospital_type": "Government",
+    "beds_registered": 1800,
+    "beds_operational": 1650,
+    "city_town": "Mumbai",
+    "state": "Maharashtra",
+    "pin_code": "400012"
+  },
+  {
+    "id": 125,
+    "name": "Safdarjung Hospital",
+    "hospital_type": "Government",
+    "beds_registered": 1500,
+    "beds_operational": 1400,
+    "city_town": "New Delhi",
+    "state": "Maharashtra",
+    "pin_code": "110029"
+  },
+  {
+    "id": 126,
+    "name": "Agrawal-Basak Hospital",
+    "hospital_type": "Multi Specialty",
+    "beds_registered": 223,
+    "beds_operational": 200,
+    "city_town": "Pune",
+    "state": "Maharashtra",
+    "pin_code": "411014"
+  },
+  {
+    "id": 127,
+    "name": "Upadhyay Inc Hospital",
+    "hospital_type": "Super Specialty",
+    "beds_registered": 675,
+    "beds_operational": 607,
+    "city_town": "Ahmedabad",
+    "state": "Gujarat",
+    "pin_code": "380015"
+  },
+  {
+    "id": 128,
+    "name": "Walla-Sawhney Hospital",
+    "hospital_type": "Multi Specialty",
+    "beds_registered": 640,
+    "beds_operational": 576,
+    "city_town": "Hyderabad",
+    "state": "Telangana",
+    "pin_code": "500001"
+  },
+  {
+    "id": 129,
+    "name": "Dara LLC Hospital",
+    "hospital_type": "Multi Specialty",
+    "beds_registered": 707,
+    "beds_operational": 636,
+    "city_town": "Kolkata",
+    "state": "West Bengal",
+    "pin_code": "700091"
+  },
+  {
+    "id": 130,
+    "name": "Soman-Sachar Hospital",
+    "hospital_type": "District",
+    "beds_registered": 297,
+    "beds_operational": 267,
+    "city_town": "Kolkata",
+    "state": "West Bengal",
+    "pin_code": "700027"
+  },
+  {
+    "id": 131,
+    "name": "Sant, Gade and Sachar Hospital",
+    "hospital_type": "Super Specialty",
+    "beds_registered": 624,
+    "beds_operational": 561,
+    "city_town": "Bangalore",
+    "state": "Karnataka",
+    "pin_code": "560103"
+  },
+  {
+    "id": 132,
+    "name": "Chanda-Chadha Hospital",
+    "hospital_type": "Multi Specialty",
+    "beds_registered": 92,
+    "beds_operational": 82,
+    "city_town": "Pune",
+    "state": "Maharashtra",
+    "pin_code": "411001"
+  },
+  {
+    "id": 133,
+    "name": "Andra-Karan Hospital",
+    "hospital_type": "Multi Specialty",
+    "beds_registered": 736,
+    "beds_operational": 662,
+    "city_town": "Kolkata",
+    "state": "West Bengal",
+    "pin_code": "700027"
+  },
+  {
+    "id": 134,
+    "name": "Dash PLC Hospital",
+    "hospital_type": "Government",
+    "beds_registered": 206,
+    "beds_operational": 185,
+    "city_town": "Pune",
+    "state": "Maharashtra",
+    "pin_code": "411001"
+  },
+  {
+    "id": 135,
+    "name": "Krishna Group Hospital",
+    "hospital_type": "Super Specialty",
+    "beds_registered": 495,
+    "beds_operational": 445,
+    "city_town": "Ahmedabad",
+    "state": "Gujarat",
+    "pin_code": "380054"
+  },
+  {
+    "id": 136,
+    "name": "Talwar LLC Hospital",
+    "hospital_type": "Multi Specialty",
+    "beds_registered": 716,
+    "beds_operational": 644,
+    "city_town": "Kolkata",
+    "state": "West Bengal",
+    "pin_code": "700027"
+  },
+  {
+    "id": 137,
+    "name": "Bose LLC Hospital",
+    "hospital_type": "Multi Specialty",
+    "beds_registered": 301,
+    "beds_operational": 270,
+    "city_town": "Kolkata",
+    "state": "West Bengal",
+    "pin_code": "700027"
+  },
+  {
+    "id": 138,
+    "name": "Mane, Bhargava and Kapur Hospital",
+    "hospital_type": "District",
+    "beds_registered": 705,
+    "beds_operational": 634,
+    "city_town": "Mumbai",
+    "state": "Maharashtra",
+    "pin_code": "400012"
+  },
+  {
+    "id": 139,
+    "name": "Babu Inc Hospital",
+    "hospital_type": "Government",
+    "beds_registered": 633,
+    "beds_operational": 569,
+    "city_town": "Hyderabad",
+    "state": "Telangana",
+    "pin_code": "500001"
+  },
+  {
+    "id": 140,
+    "name": "Bumb LLC Hospital",
+    "hospital_type": "District",
+    "beds_registered": 140,
+    "beds_operational": 126,
+    "city_town": "Ahmedabad",
+    "state": "Gujarat",
+    "pin_code": "380054"
+  }
+]
