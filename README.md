@@ -1,6 +1,24 @@
 # Payer HS Dashboard
 
+[![Mathi029's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mathi029&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- Add your GIF here -->
+<!-- <p align="center">
+  <img src="assets/demo.gif" alt="Project Demo" width="800"/>
+</p> -->
+
 This project is a web application designed to provide a comprehensive dashboard for hospital and healthcare network analytics. It features a React-based frontend and a FastAPI backend.
+
+## Features
+
+- **Interactive Map View:** Visualize hospital locations and network coverage.
+  <!-- <img src="assets/map-feature.gif" alt="Map Feature Demo" width="600"/> -->
+
+- **Dynamic Data Dashboards:** Explore detailed metrics with interactive charts.
+  <!-- <img src="assets/dashboard-feature.gif" alt="Dashboard Feature Demo" width="600"/> -->
+
+- **Comprehensive Search:** Quickly find hospitals and specific data points.
+  <!-- <img src="assets/search-feature.gif" alt="Search Feature Demo" width="600"/> -->
 
 ## Overview
 
@@ -16,17 +34,29 @@ The application is structured as a monorepo with a `frontend` directory for the 
 
 ## Tech Stack
 
-### Frontend
-- **React**: A JavaScript library for building user interfaces.
-- **Vite**: A fast build tool and development server for modern web projects.
-- **Chart.js**: For creating interactive charts and graphs.
-- **Leaflet**: For interactive maps.
-- **Bootstrap**: For styling and UI components.
-- **Axios**: For making HTTP requests to the backend.
-
-### Backend
-- **FastAPI**: A modern, fast (high-performance) web framework for building APIs with Python.
-- **Uvicorn**: An ASGI server for running the FastAPI application.
+<p align="center">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://vitejs.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/vitejs/vitejs-icon.svg" alt="vite" width="40" height="40"/>
+  </a>
+  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
+    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
+  </a>
+  <a href="https://leafletjs.com" target="_blank" rel="noreferrer">
+    <img src="https://leafletjs.com/docs/images/logo.png" alt="leaflet" width="40" height="40"/>
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+</p>
 
 ## Project Structure
 
@@ -112,3 +142,19 @@ For a full list of endpoints, please refer to the FastAPI documentation availabl
 ## Data
 
 The application uses a set of JSON files located in the `backend/data/` directory as its data source. These files contain information about hospitals, doctors, equipment, and more.
+
+## GitHub Activity
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img alt="Mathi029's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Mathi029&bg_color=0d1117&color=ffffff&line=007acc&point=ffffff&area=true&hide_border=true" />
+  </a>
+</p>
+
+## Contributors
+
+A huge thank you to all the contributors who have helped build and improve this project!
+
+<a href="https://github.com/Mathi029/Hospital_Payer_dashboard/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Mathi029/Hospital_Payer_dashboard" />
+</a>
